@@ -1,0 +1,18 @@
+package ir.teherany.entity.enumuration;
+
+public enum QuestionType {
+    //https://www.surveymonkey.com/mp/survey-question-types/
+    MULTIPLE_CHOICE_QUESTIONS,
+    RATING_SCALE_QUESTIONS,
+    LIKERT_SCALE_QUESTIONS,
+    MATRIX_QUESTIONS,
+    DROPDOWN_QUESTIONS,
+    OPEN_ENDED_QUESTIONS,
+    DEMOGRAPHIC_QUESTIONS,
+    RANKING_QUESTIONS,
+    IMAGE_CHOICE_QUESTIONS,
+    CLICK_MAP_QUESTIONS,
+    FILE_UPLOAD_UESTIONS,
+    SLIDER_QUESTIONS,
+    BENCHMARKABLE_QUESTIONS,
+}

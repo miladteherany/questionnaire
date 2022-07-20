@@ -5,7 +5,7 @@ spring:
   # Database
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://156.253.5.223:5432/shopdb
+    url: jdbc:postgresql://156.253.5.223:5432/questionnaire
     username: ${dbusername}
     password: ${dbpassword}
   # JPA properties
